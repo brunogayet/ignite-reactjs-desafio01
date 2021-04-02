@@ -4,9 +4,6 @@ To.Do is a simple application for you to organize your tasks. Based on the chall
 
 ![image](https://user-images.githubusercontent.com/6998981/113063587-9024b480-9183-11eb-82ff-97a6187dfc77.png)
 
-# GoBarber
-A beauty service scheduling software for barber shops.
-
 - Summary
   - [Usage](#usage)
   - [Test](#test)
