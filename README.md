@@ -14,10 +14,6 @@ A beauty service scheduling software for barber shops.
 
 ## Usage
 
-The first step is to create your account, then you can login and choose a barber, check his schedule and make an appointment.
-
-## Usage
-
 ```bash
 // installing the dependencies
 yarn
